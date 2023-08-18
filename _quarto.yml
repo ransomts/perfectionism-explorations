@@ -1,0 +1,28 @@
+project:
+  output-dir: docs
+  type: book
+
+editor: source
+
+book: 
+  title: "NLP Explorations into Perfectionism"
+  author: "Tim Ransom, Haleh Brotherton"
+  chapters:
+    - index.qmd
+    - 00-what-is-perfectionism.qmd
+    - 10-data-processing.qmd
+    - 20-data-visualization.qmd
+    - 30-data-interpretation.qmd
+    - 40-results-discussion-implications.qmd
+    
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    code-block-bg: true
+    code-fold: true
+    
+# execute:
+#   cache: true
+#   freeze: auto  # re-render only when source changes

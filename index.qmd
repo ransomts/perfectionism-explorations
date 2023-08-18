@@ -1,0 +1,23 @@
+# Preface {.unnumbered}
+
+Possible research questions:
+
+-   What terms do *online engineering student communities* use that indicate perfectionism?
+    -   Are there terms that indicate adaptive vs maladaptive perfectionism?
+    -   Is there overlap with terms indicating burnout?
+
+Available data source:
+
+-   stack overflow posts
+-   Reddit posts
+
+Possible methods:
+
+-   text mining (n-gram analysis, term frequency)
+-   LDA topic modeling
+-   QE (most complicated)
+
+Possible submission venues:
+
+-   SSERC (abstract deadline: 9/15)
+-   ASEE (abstract deadline: mid-October?)

@@ -1,0 +1,15 @@
+# Data sources
+
+## Search criteria
+
+### Search terms selected
+
+### Date range selected
+
+### subreddit or stackoverflow forums selected
+
+## Example post
+
+## Structure and Number of posts found
+
+# Data processing
