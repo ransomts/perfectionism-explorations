@@ -7,6 +7,13 @@
     "text": "Preface\nPossible research questions:\n\nWhat terms do online engineering student communities use that indicate perfectionism?\n\nAre there terms that indicate adaptive vs maladaptive perfectionism?\nIs there overlap with terms indicating burnout?\n\n\nAvailable data source:\n\nstack overflow posts\nReddit posts\n\nPossible methods:\n\ntext mining (n-gram analysis, term frequency)\nLDA topic modeling\nQE (most complicated)\n\nPossible submission venues:\n\nSSERC (abstract deadline: 9/15)\nASEE (abstract deadline: mid-October?)"
   },
   {
+    "objectID": "00-what-is-perfectionism.html",
+    "href": "00-what-is-perfectionism.html",
+    "title": "1  What is perfectionism?",
+    "section": "",
+    "text": "2 Why perfectionism is important to study in education research"
+  },
+  {
     "objectID": "00-what-is-perfectionism.html#big-perfectionism-papers-and-authors",
     "href": "00-what-is-perfectionism.html#big-perfectionism-papers-and-authors",
     "title": "1  What is perfectionism?",
@@ -33,34 +40,6 @@
     "title": "1  What is perfectionism?",
     "section": "1.4 Keywords that could indicate perfectionism",
     "text": "1.4 Keywords that could indicate perfectionism"
-  },
-  {
-    "objectID": "01-data-searches.html#data-sources-selected",
-    "href": "01-data-searches.html#data-sources-selected",
-    "title": "2  Data sources considered",
-    "section": "2.1 Data sources selected",
-    "text": "2.1 Data sources selected"
-  },
-  {
-    "objectID": "01-data-searches.html#search-criteria",
-    "href": "01-data-searches.html#search-criteria",
-    "title": "2  Data sources considered",
-    "section": "2.2 Search criteria",
-    "text": "2.2 Search criteria\n\n2.2.1 Search terms selected\n\n\n2.2.2 Date range selected\n\n\n2.2.3 subreddit or stackoverflow forums selected"
-  },
-  {
-    "objectID": "01-data-searches.html#number-of-posts-found",
-    "href": "01-data-searches.html#number-of-posts-found",
-    "title": "2  Data sources considered",
-    "section": "2.3 Number of posts found",
-    "text": "2.3 Number of posts found"
-  },
-  {
-    "objectID": "00-what-is-perfectionism.html",
-    "href": "00-what-is-perfectionism.html",
-    "title": "1  What is perfectionism?",
-    "section": "",
-    "text": "2 Why perfectionism is important to study in education research"
   },
   {
     "objectID": "10-data-processing.html",
