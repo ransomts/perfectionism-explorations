@@ -8,7 +8,7 @@ Perfectionism is a tendency to blah blah and this and that
 
 ## Scales to measure perfectionism
 
-## Keywords that could indicate perfectionism
+## Keywords from scales that could indicate perfectionism
 
 Perfectionism is not always speken about by name. There are many terms that can be used to indicate the forms and characteristics of perfectionism. We have collected a set of concepts and terms used in various perfectionism scales in order to search for trends in our text corpus. 
 
@@ -20,7 +20,6 @@ Perfectionism is not always speken about by name. There are many terms that can 
 | avoidant                                      |       | procrastinate                 |
 | chronic fatigue                               |       | "always tired"                |
 | concerns over mistake                         |       | "messed up"                   |
-| depressive symptoms                           |       | depression                    |
 | discrepancy between standards and performance |       |                               |
 | dominance                                     |       |                               |
 | doubts about actions                          |       | unsure                        |
@@ -51,6 +50,15 @@ Perfectionism is not always speken about by name. There are many terms that can 
 
 
 : Possible terms that could indicate perfectionism {.striped .hover}
+
+# Keywords from perfectionism associations
+
+| association                                   | reference | Our possible indication terms |
+|-----------------------------------------------|-----------|-------------------------------|
+| depressive symptoms                           |           | depression                    |
+
+: Possible terms that could be associated with perfectionism {.striped .hover}
+
 
 # Why perfectionism is important to study in education research
 
