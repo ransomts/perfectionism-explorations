@@ -9,8 +9,8 @@ Perfectionism is a tendency to blah blah and this and that
 ## Scales to measure perfectionism
 
 ## Keywords that could indicate perfectionism
-concerns over mistake
-organization
+#concerns over mistake
+#organization
 parental criticism
 parental expectations
 personal standards
