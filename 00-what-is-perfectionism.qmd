@@ -12,37 +12,37 @@ Perfectionism is a tendency to blah blah and this and that
 concerns over mistake\
 organization\
 parental criticism\
-parental expectations
-personal standards
-doubts about actions
-indecisiveness 
-obsessive-compulsive symptoms
-depressive symptoms
-social anxiety
-reactions to mistakes
-suicidal preoccupation
-sexual dysfunction
-chronic fatigue
-self-oriented perfectionism
-socially prescribed perfectionism
-other-oriented perfectionism
-authoritarianism
-dominance
-fear of negative evaluation
-need for approval
-external locus of control
-schizoid
-avoidant
-loneliness
-low social self-esteem
-low self-perceived social skill
-standards & order
-relationships
-anxiety
-procrastination
-discrepancy between standards and performance
-adaptive perfectionism
-maladaptive perfectionism
+parental expectations\
+personal standards\ 
+doubts about actions\
+indecisiveness\ 
+obsessive-compulsive symptoms\
+depressive symptoms\
+social anxiety\
+reactions to mistakes\
+suicidal preoccupation\
+sexual dysfunction\
+chronic fatigue\
+self-oriented perfectionism\
+socially prescribed perfectionism\
+other-oriented perfectionism\
+authoritarianism\
+dominance\
+fear of negative evaluation\
+need for approval\
+external locus of control\
+schizoid\
+avoidant\
+loneliness\
+low social self-esteem\
+low self-perceived social skill\
+standards & order\
+relationships\
+anxiety\
+procrastination\
+discrepancy between standards and performance\
+adaptive perfectionism\
+maladaptive perfectionism\
 
 # Why perfectionism is important to study in education research
 
