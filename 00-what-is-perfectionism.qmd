@@ -7,46 +7,42 @@ Perfectionism is a tendency to blah blah and this and that
 ## Definitions of perfectionism
 
 ## Scales to measure perfectionism
+| scale                                         | #     | Our possible indication terms |
+|-----------------------------------------------|-------|-------------------------------|
+| Frost Multidimensional Perfectionism Scale    |   1   | FMPS                          |
+| Hewitt & Flett Multidimensional Perfectionism
+                  Scale                         |   2   | MPS                           |
+| Almost Perfect Scale- Revised                 |   3   | APS-R                         |
+| Positive and Negative Perfectionism Scale     |   4   | PANPS                         |
+
+## Scale citations
+/[1]Frost, R. O., Marten, P., Lahart, C., & Rosenblate, R. (1990). The dimensions of perfectionism. Cognitive therapy and research, 14, 449-468.
+/[2]Hewitt, P. L., Flett, G. L., Turnbull-Donovan, W., & Mikail, S. F. (1991). The Multidimensional Perfectionism Scale: Reliability, validity, and psychometric properties in psychiatric samples. Psychological Assessment: A Journal of Consulting and Clinical Psychology, 3(3), 464.
+/[3]Slaney, R. B., Mobley, M., Trippi, J., Ashby, J. S., & Johnson, D. (1996). Almost Perfect Scale—Revised. Assessment.
+/[4]Terry-Short, L. A., Owens, R. G., Slade, P. D., & Dewey, M. E. (1995). Positive and negative perfectionism. Personality and individual differences, 18(5), 663-668.
 
 ## Keywords from scales that could indicate perfectionism
 
 Perfectionism is not always speken about by name. There are many terms that can be used to indicate the forms and characteristics of perfectionism. We have collected a set of concepts and terms used in various perfectionism scales in order to search for trends in our text corpus. 
 
-| concept                                       | scale | Our possible indication terms |
+| concept                                       | scale | notes                         |
 |-----------------------------------------------|-------|-------------------------------|
-| adaptive perfectionism                        |       | perfectionist                 |
-| anxiety                                       |       | worry                         |
-| authoritarianism                              |       |                               |
-| avoidant                                      |       | procrastinate                 |
-| chronic fatigue                               |       | "always tired"                |
-| concerns over mistake                         |       | "messed up"                   |
-| discrepancy between standards and performance |       |                               |
-| dominance                                     |       |                               |
-| doubts about actions                          |       | unsure                        |
-| external locus of control                     |       | "out of control"              |
-| fear of negative evaluation                   |       |                               |
-| indecisiveness                                |       | unsure                        |
-| loneliness                                    |       | alone                         |
-| low self-perceived social skill               |       |                               |
-| low social self-esteem                        |       |                               |
-| maladaptive perfectionism                     |       |                               |
-| need for approval                             |       |                               |
-| obsessive-compulsive symptoms                 |       | OCD                           |
-| organization                                  |       | organized, tidy, structured   |
-| other-oriented perfectionism                  |       |                               |
-| parental criticism                            |       | "parents would say"           |
-| parental expectations                         |       | expectations                  |
-| personal standards                            |       |                               |
-| procrastination                               |       |                               |
-| reactions to mistakes                         |       |                               |
-| relationships                                 |       |                               |
-| schizoid                                      |       |                               |
-| self-oriented perfectionism                   |       |                               |
-| sexual dysfunction                            |       | incel                         |
-| social anxiety                                |       |                               |
-| socially prescribed perfectionism             |       |                               |
-| standards & order                             |       |                               |
-| suicidal preoccupation                        |       | kms, "end it"                 |
+| anxiety                                       |   3   |                               |
+| concerns over mistake                         |   1   |                               |
+| discrepancy                                   |   3   |                               |
+| doubts about actions                          |   1   |                               |
+| organization                                  |   1   |                               |
+| other-oriented perfectionism                  |   2   |                               |
+| parental criticism                            |   1   |                               |
+| parental expectations                         |   1   |                               |
+| personal standards                            |   1   |                               |
+| positive perfectionism                        |   4   |                               |
+| procrastination                               |   3   |                               |
+| negative perfectionism                        |   4   |                               |
+| relationships                                 |   3   |                               |
+| self-oriented perfectionism                   |   2   |                               |
+| socially prescribed perfectionism             |   2   |                               |
+| standards & order                             |   3   |                               |
 
 
 : Possible terms that could indicate perfectionism {.striped .hover}
@@ -56,6 +52,29 @@ Perfectionism is not always speken about by name. There are many terms that can 
 | association                                   | reference | Our possible indication terms |
 |-----------------------------------------------|-----------|-------------------------------|
 | depressive symptoms                           |           | depression                    |
+| anxiety                                       |           | worry                         |
+| authoritarianism                              |           |                               |
+| avoidant                                      |           | procrastinate                 |
+| chronic fatigue                               |           | "always tired"                |
+| dominance                                     |           |                               |
+| external locus of control                     |           | "out of control"              |
+| fear of negative evaluation                   |           |                               |
+| indecisiveness                                |           | unsure                        |
+| loneliness                                    |           | alone                         |
+| low self-perceived social skill               |           |                               |
+| low social self-esteem                        |           |                               |
+| need for approval                             |           |                               |
+| obsessive-compulsive symptoms                 |           | OCD                           |
+| procrastination                               |           |                               |
+| reactions to mistakes                         |           |                               |
+| schizoid                                      |           |                               |
+| sexual dysfunction                            |           | incel                         |
+| social anxiety                                |           |                               |
+| suicidal preoccupation                        |           | kms, "end it"                 |
+
+
+
+
 
 : Possible terms that could be associated with perfectionism {.striped .hover}
 
