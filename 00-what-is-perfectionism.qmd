@@ -7,6 +7,7 @@ Perfectionism is a tendency to blah blah and this and that
 ## Definitions of perfectionism
 
 ## Scales to measure perfectionism
+
 | scale                                         | #     | Our possible indication terms |
 |-----------------------------------------------|-------|-------------------------------|
 | Frost Multidimensional Perfectionism Scale    |   1   | FMPS                          |
